@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+require 'pry'
+require 'rest-client'
+require 'json'
+require 'httparty'
+require "bundler/setup"
+require_relative "../lib/environment"
+
+CLI.new.call
