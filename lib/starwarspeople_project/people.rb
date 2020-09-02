@@ -25,3 +25,4 @@ class People
     end
 
 end
+
