@@ -44,7 +44,8 @@ class CLI
         puts " Mass: #{p.mass}"
         puts " Gender: #{p.gender}"
         end 
-        #puts "#{people}"
+        
+        
         
         
     end
