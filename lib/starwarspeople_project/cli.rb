@@ -46,6 +46,7 @@ class CLI
         end 
         #puts "#{people}"
         
+        
     end
 
     def goodbye
