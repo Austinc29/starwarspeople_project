@@ -4,7 +4,7 @@ require_relative"./starwarspeople_project/people"
 require_relative"./starwarspeople_project/api"
 require 'open-uri'
 require 'nokogiri'
-require 'pry'
+#require 'pry'
 require 'rest-client'
 require 'json'
 
